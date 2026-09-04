@@ -20,8 +20,6 @@ This project was built from scratch to demonstrate modern iOS development standa
 - **Networking:** Native `URLSession`
 - **Data Parsing:** `JSONDecoder` (handling snake_case conversion)
 
-## 📱 Screenshots
-> *(Tip for Developer: Drag and drop 3-4 screenshots of your app running on the simulator right here before your final commit!)*
 
 ## 🧠 What I Learned
 Building this app solidified my understanding of how iOS applications scale at an enterprise level. By abandoning Storyboards, I gained complete mastery over AutoLayout and the view lifecycle. Upgrading the network manager to `async/await` drastically simplified error handling and taught me how modern Swift handles background threads.
